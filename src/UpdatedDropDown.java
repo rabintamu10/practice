@@ -10,7 +10,7 @@ public class UpdatedDropDown {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
-		System.setProperty("webdriver.chrome.driver", "/Users/rabingurung/Downloads/chromedriver 2");
+		//System.setProperty("webdriver.chrome.driver", "/Users/rabingurung/Downloads/chromedriver 2");
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/dropdownsPractise/#");

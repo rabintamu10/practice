@@ -41,7 +41,7 @@ public class Locators {
 
 		// Implicit wait - 5seconds time out
 
-		System.setProperty("webdriver.chrome.driver", "/Users/rabingurung/Downloads/chromedriver 2");
+		//System.setProperty("webdriver.chrome.driver", "/Users/rabingurung/Downloads/chromedriver 2");
 		WebDriver driver = new ChromeDriver();
 
 		// waiting for object to show

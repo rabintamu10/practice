@@ -10,7 +10,7 @@ public class Locators2 {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		String name = "rahul";
-		System.setProperty("webdriver.chrome.driver", "/Users/rabingurung/Downloads/chromedriver 2");
+		//System.setProperty("webdriver.chrome.driver", "/Users/rabingurung/Downloads/chromedriver 2");
 		WebDriver driver = new ChromeDriver();
 
 		// waiting for object to show
